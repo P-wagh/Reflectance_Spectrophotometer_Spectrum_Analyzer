@@ -1,4 +1,4 @@
-# Reflectance Spectrophotometer Spectrum Analyzer
+# Reflectance Spectrophotometer Spectrum Analyzer with Deep Learning
 script to analyze the visible spectrum of element from camera to corresponding wavelengths.
 
 # Spectrometer setup
