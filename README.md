@@ -30,4 +30,4 @@ optical_spectrum_dataset.xlsx  -------> wavelengths for different materials like
 spectrum_300pixels.jpg   is a visible spectrum used for manupulation of data. (300 pixels or row in image = 700nm to 400nm wavelength)
 
 Training and validation curve of the NN model
-![This is an image](https://github.com/prashikl007/Relfection_Spectrophotometer_Spectrum_Analyzer/blob/main/training_and_validation_curve.jpeg)
+![This is an image](https://github.com/P-wagh/Relfection_Spectrophotometer_Spectrum_Analyzer/blob/main/training_and_validation_curve.jpeg)
