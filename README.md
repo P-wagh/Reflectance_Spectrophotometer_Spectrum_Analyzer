@@ -5,7 +5,6 @@ script to analyze the visible spectrum of element from camera to corresponding w
 ![This is an image](https://github.com/P-wagh/Reflectance_Spectrophotometer_Spectrum_Analyzer/blob/main/spectrometer_diagram.jpg)
 
 # GUI for Spectrometer
-![This is an image](https://github.com/prashikl007/Visible_Spectrum_Analyzer_with_Deep_Learning/blob/main/al%20foil.jpg)
 ![This is an image](https://github.com/P-wagh/Reflectance_Spectrophotometer_Spectrum_Analyzer/blob/main/al%20foil.jpg)
 
 Horizontal axis in plot spectrum graph is wavelength in 'nm', vertical axis is count for corresponding color pixels or intensity of the wavelength of that color pixel.
@@ -31,4 +30,4 @@ optical_spectrum_dataset.xlsx  -------> wavelengths for different materials like
 spectrum_300pixels.jpg   is a visible spectrum used for manupulation of data. (300 pixels or row in image = 700nm to 400nm wavelength)
 
 Training and validation curve of the NN model
-![This is an image](https://github.com/prashikl007/Relfection_Spectrophotometer_Spectrum_Analyzer_with_Deep_Learning/blob/main/training_and_validation_curve.jpeg)
+![This is an image](https://github.com/prashikl007/Relfection_Spectrophotometer_Spectrum_Analyzer/blob/main/training_and_validation_curve.jpeg)
