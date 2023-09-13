@@ -3,6 +3,7 @@ script to analyze the visible spectrum of element from camera to corresponding w
 
 # Spectrometer setup
 ![This is an image](https://github.com/prashikl007/Relfection_Spectrophotometer_Spectrum_Analyzer_with_Deep_Learning/blob/main/spectrometer_diagram.jpg)
+![This is an image](https://github.com/P-wagh/Reflectance_Spectrophotometer_Spectrum_Analyzer/blob/main/spectrometer_diagram.jpg)
 
 # GUI for Spectrometer
 ![This is an image](https://github.com/prashikl007/Visible_Spectrum_Analyzer_with_Deep_Learning/blob/main/al%20foil.jpg)
